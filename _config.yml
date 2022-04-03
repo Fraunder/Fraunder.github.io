@@ -99,14 +99,14 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "QQ空间",
+        href: "https://user.qzone.qq.com/1107595228/infocenter"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/"
+        title: "知乎",
+        href: "http://www.知乎.com/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "bilibili",
+        href: "https://bilibili.com"
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
